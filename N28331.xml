@@ -115,14 +115,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037759_0000_100F03A4C326ABD0"/>
-            <pb facs="tcp:037759_0001_100ED4BD6D82F488" rendition="simple:additions"/>
+            <pb facs="unknown:037759_0000_100F03A4C326ABD0"/>
+            <pb facs="unknown:037759_0001_100ED4BD6D82F488"
+                rendition="simple:additions"/>
             <p>SELF IMMOLATION: OR, THE SACRIFICE OF LOVE. A PLAY IN THREE ACTS.</p>
             <p>TRANSLATED FROM THE GERMAN OF KOTZEBUE.</p>
             <p>NEW-YORK: Printed for CHARLES SMITH and S. STEPHENS. 1800.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:037759_0002_100ED4BF47A04540"/>
+            <pb facs="unknown:037759_0002_100ED4BF47A04540"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>ROBERT MAXWELL, <hi>a decayed Merchant.</hi>
@@ -153,7 +154,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:037759_0003_100F0383341D27F0"/>
+            <pb facs="unknown:037759_0003_100F0383341D27F0"/>
             <head>SELF IMMOLATION; OR, THE SACRIFICE OF LOVE.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -220,7 +221,7 @@ Yes, we had.
 We have lately endeavoured to do with fewer servants.</p>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:037759_0004_100F03859744DD08"/>
+                     <pb n="4" facs="unknown:037759_0004_100F03859744DD08"/>
                      <speaker>Moth.</speaker>
                      <p>Very well; it is prudently done! When I was married, my late husband and I were very poor, indeed; and when my Robert, your husband, was born I put myself to many, many, little inconveniencies, that my child might want nothing. Now, it is your turn to make these sacrifices. When children are small, the mother should forego many of her wishes, to provide for their wants.</p>
                   </sp>
@@ -284,7 +285,7 @@ Good God! The whole night through have I been at work!</p>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb facs="tcp:037759_0005_100F03878B4EF560"/>
+                  <pb facs="unknown:037759_0005_100F03878B4EF560"/>
                   <head>SCENE II.</head>
                   <stage>
                      <hi>Enter</hi> HARRY.</stage>
@@ -381,7 +382,7 @@ How readily would I foster him with my blood!</p>
 Pray, dear Mama, do give me a roll.</p>
                   </sp>
                   <sp>
-                     <pb n="6" facs="tcp:037759_0006_100F038925B818F0"/>
+                     <pb n="6" facs="unknown:037759_0006_100F038925B818F0"/>
                      <speaker>Arab.</speaker>
                      <p>But one moment's patience, my dear; Jane will soon be here.</p>
                   </sp>
@@ -439,7 +440,7 @@ Pray, dear Mama, do give me a roll.</p>
                      <p>Surely, it has always been my most earnest wish—</p>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:037759_0007_100F038C4B262FE0"/>
+                     <pb n="7" facs="unknown:037759_0007_100F038C4B262FE0"/>
                      <speaker>Moth.</speaker>
                      <p>Aye, daughter, it has been—<hi>it has been</hi>—but it is no more. Every thing has of late taken a most singu<g ref="char:EOLhyphen"/>lar turn, and grows worse daily. Old people are a little difficult, and are fond of order. What to young people seems the effect of caprice, often is indispensably neces<g ref="char:EOLhyphen"/>sary to the old. The variety of youthful enjoyments is so great, that some may well be spared: but old age is confined to so few enjoyments, that it can ill afford to lose any. And yet, daughter,
 <stage>(with a tone of increasing animation)</stage>
@@ -505,7 +506,7 @@ Poor, dear Lady!</p>
                      </p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:037759_0008_100F038E41E375A0"/>
+                     <pb n="8" facs="unknown:037759_0008_100F038E41E375A0"/>
                      <speaker>Moth.</speaker>
                      <p>Immediately!—For this hour past have I re<g ref="char:EOLhyphen"/>ceived the same answer! I perceive I grow burthensome in this house. Myself and my chair are both out of fashion; we are always in the way.</p>
                   </sp>
@@ -588,7 +589,7 @@ The ser<g ref="char:EOLhyphen"/>vants!</p>
                   <sp>
                      <speaker>Moth.</speaker>
                      <p>Was he so dishonest? it had a gold coin of
-<pb n="9" facs="tcp:037759_0009_100F038FE6C1EBB8"/>
+<pb n="9" facs="unknown:037759_0009_100F038FE6C1EBB8"/>
 Charles the first in it, a present of my godmother to me. But, William—is he gone, too? He was a pious young man, and often in the evening read me a chapter in the bible.</p>
                   </sp>
                   <sp>
@@ -672,7 +673,7 @@ Who will tell me the day of my death?</p>
                   <sp>
                      <speaker>Moth.</speaker>
                      <p>Robert, Robert, that is a wicked speech. A great deal depends on our manner of treating people.— When there is proper management in a house, and the ser<g ref="char:EOLhyphen"/>vants
-<pb n="10" facs="tcp:037759_0010_100F03917A1A9A70"/>
+<pb n="10" facs="unknown:037759_0010_100F03917A1A9A70"/>
 are duly paid their wages, they never think of rob<g ref="char:EOLhyphen"/>bing their masters in this manner.</p>
                   </sp>
                   <sp>
@@ -782,7 +783,7 @@ Oh! thank her! thank her!</p>
                      <p>
                         <stage>(<hi>kissing the child</hi>)</stage>
 But why this, Robert! Can
-<pb n="11" facs="tcp:037759_0011_100F0393DC726CC8"/>
+<pb n="11" facs="unknown:037759_0011_100F0393DC726CC8"/>
 there be any thing more pleasing to a mother, than to see in the hands of her child, a morsel of bread which she her<g ref="char:EOLhyphen"/>self has earned?</p>
                   </sp>
                   <sp>
@@ -831,7 +832,7 @@ Dear good Robert— Put confidence in the God of mercy!</p>
 What is this? Blood!</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:037759_0012_100F0396598D13A0"/>
+                     <pb n="12" facs="unknown:037759_0012_100F0396598D13A0"/>
                      <speaker>Arab.</speaker>
                      <p>I pricked myself with a needle; that's all.</p>
                   </sp>
@@ -902,7 +903,7 @@ Good God!</p>
                         </gap> this morning—</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:037759_0013_100F039830266E68"/>
+                     <pb n="13" facs="unknown:037759_0013_100F039830266E68"/>
                      <speaker>Arab.</speaker>
                      <p>Did you make your distress known?</p>
                   </sp>
@@ -967,7 +968,7 @@ Walwyn is a worthy man.</p>
 Ah! I should not have told you this!</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:037759_0014_100F0399B43E0218"/>
+                     <pb n="14" facs="unknown:037759_0014_100F0399B43E0218"/>
                      <speaker>Arab.</speaker>
                      <p>
                         <stage>(<hi>Gently chiding him</hi>)</stage>
@@ -1043,7 +1044,7 @@ That is no reply. Such sores heal easily. Have I nothing that may be envied in m
                   <sp>
                      <speaker>Max.</speaker>
                      <p>Woe, woe be to me, wretched being! This noble, this adorable woman might have been happy by
-<pb n="15" facs="tcp:037759_0015_100F039C80853D60"/>
+<pb n="15" facs="unknown:037759_0015_100F039C80853D60"/>
 the side of a worthy man! But forth came the wealthy Maxwell, possessed of thousands, not earned by him, but inherited from his father, improved this miserable advan<g ref="char:EOLhyphen"/>tage, and purchased a heart whose value far exceeds all the riches of Peru. He stole the best of wives—to—to let her perish with hunger. Woe, woe to me, wretched man!
 <stage>(He grows faint and endeavours to conceal it, and takes hold of the back of a chair.)</stage>
                      </p>
@@ -1111,7 +1112,7 @@ Look at me!— Where have you dined of late?</p>
                      <p>
                         <stage>(<hi>With a forced smile</hi>)</stage>
 You think, I suppose, that I have fasted.—Be comforted, my Arabella; I have a
-<pb n="16" facs="tcp:037759_0016_100F039E6A60F7F0"/>
+<pb n="16" facs="unknown:037759_0016_100F039E6A60F7F0"/>
 numerous acquaintance: and though they may fear my asking for assistance; a bit of dinner they will not re<g ref="char:EOLhyphen"/>fuse me.</p>
                   </sp>
                </div>
@@ -1192,7 +1193,7 @@ It is Walwyn's hand, is it not?
                      <p>Good morning, my friend.</p>
                   </sp>
                   <sp>
-                     <pb n="17" facs="tcp:037759_0017_100F039FF7913458"/>
+                     <pb n="17" facs="unknown:037759_0017_100F039FF7913458"/>
                      <speaker>Land.</speaker>
                      <p>These rooms are very fine—an't they?</p>
                   </sp>
@@ -1277,7 +1278,7 @@ Be gone, sir! leave the room! While I inhabit these apartments, I am the master 
                   <sp>
                      <speaker>Land.</speaker>
                      <p>Very well—the mastership won't last long, I
-<pb n="18" facs="tcp:037759_0018_100F03A25BD8CCA8"/>
+<pb n="18" facs="unknown:037759_0018_100F03A25BD8CCA8"/>
 believe. "Begone—leave the room," indeed!—let me tell you, my fine gentleman, such language won't do for people of empty purses and empty pockets. The rich have the privilege of being rude, that one puts up with— that's the custom; money makes amends for every thing —but without money the finest gentleman in the land must stoop, and be humble, or he marches to Newgate— Do you understand me?
 <stage>Exit.</stage>
                      </p>
@@ -1349,7 +1350,7 @@ I have got your note for the sum.</p>
                      <p>You were formerly a regular honest man.</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:037759_0019_100ED4BBAEAD0150"/>
+                     <pb n="19" facs="unknown:037759_0019_100ED4BBAEAD0150"/>
                      <speaker>Max.</speaker>
                      <p>Honest I am still.</p>
                   </sp>
@@ -1416,7 +1417,7 @@ No, no!— that must not be.</p>
                      <p>Sir, sir!—
 <stage>(<hi>is going after him, but seeing the Jew gone, he stops</hi>)</stage>
 Yes, yes, there yet are men—but not among Christians. Blockhead that I was, to pass by an Israelite at the Exchange, as if the humanity of that peo<g ref="char:EOLhyphen"/>ple
-<pb n="20" facs="tcp:037759_0020_100F03A647C2F040"/>
+<pb n="20" facs="unknown:037759_0020_100F03A647C2F040"/>
 had been drowned in the Red Sea—Blockhead that I was, not to recollect the important truth, that in ninety-nine cases of an hundred, the <hi>despised</hi> is more worthy than the <hi>man who despises him.</hi> Yes, I will once more crawl about; in every public place exhibit the image of my distress; this Jew has rekindled the smothered spark of my confidence in human kindness. Among a million of inhabitants, surely I may find <hi>one,</hi> who has a letter to write, or an account to sum up.</p>
                   </sp>
                </div>
@@ -1487,7 +1488,7 @@ But at present I always get so little.</p>
                   <sp>
                      <speaker>Har.</speaker>
                      <p>Mama, to be sure helps me often from her own
-<pb n="21" facs="tcp:037759_0021_100F03A86F39D418"/>
+<pb n="21" facs="unknown:037759_0021_100F03A86F39D418"/>
 plate—But, then, she has not got much herself.</p>
                   </sp>
                   <sp>
@@ -1524,7 +1525,7 @@ There, there—take care of your roll yourself.</p>
                <trailer>END OF THE FIRST ACT.</trailer>
             </div>
             <div n="2" type="act">
-               <pb n="22" facs="tcp:037759_0022_100F03AAEF523A30"/>
+               <pb n="22" facs="unknown:037759_0022_100F03AAEF523A30"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1569,7 +1570,7 @@ Do you wish to speak with me, sir?</p>
                      <p>Honest?—yes—certainly—<hi>we are,</hi> among ourselves, the most honest people living.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:037759_0023_100F03AD58D6C7A8"/>
+                     <pb n="23" facs="unknown:037759_0023_100F03AD58D6C7A8"/>
                      <speaker>Max.</speaker>
                      <p>I do not understand you, Sir.</p>
                   </sp>
@@ -1619,7 +1620,7 @@ you can be silent! Brothers of a trade must not betray one another. But if you h
                      </p>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:037759_0024_100F03AEDC373888"/>
+                     <pb n="24" facs="unknown:037759_0024_100F03AEDC373888"/>
                      <speaker>Max.</speaker>
                      <p>
                         <stage>(Continues standing, with his arms folded)</stage>
@@ -1676,7 +1677,7 @@ Ha! this man seems in eager search for something. O that he may want work!— wo
                   <sp>
                      <speaker>Flood.</speaker>
                      <p>Poh! poh! Such things are done, in London, every day. Besides, a juster cause than mine was never
-<pb n="25" facs="tcp:037759_0025_100F03B0CD628F38"/>
+<pb n="25" facs="unknown:037759_0025_100F03B0CD628F38"/>
 brought before a court. My opponent is a swindler, a fraudulent banker, one Belton.</p>
                   </sp>
                   <sp>
@@ -1755,7 +1756,7 @@ O God! O God! How capricious and false are the moral judgments of men!—I may s
                      <p>To what place do you bear it?</p>
                   </sp>
                   <sp>
-                     <pb n="26" facs="tcp:037759_0026_100F03B28F373F98"/>
+                     <pb n="26" facs="unknown:037759_0026_100F03B28F373F98"/>
                      <speaker>Hart.</speaker>
                      <p>To Golden Square.</p>
                   </sp>
@@ -1862,7 +1863,7 @@ A good day to you, master. Poor folks must not lose their time in chatting idly.
                      <p>
                         <stage>(alone)</stage>
 Fool!—Unlucky wretch! thou hast
-<pb n="27" facs="tcp:037759_0027_100F03B55B46D578"/>
+<pb n="27" facs="unknown:037759_0027_100F03B55B46D578"/>
 not for these two days tasted even a cup of tea—and thou would'st carry a porter's load!
 <stage>(he wrings his hands in despair)</stage>
 Poor Robert! Is it then come to this, a man must be either a villain or a beggar. Oh! to die for Ara<g ref="char:EOLhyphen"/>bella, were easier far than to beg for her! Yet, by dying, I cannot better any thing here—Away! away! vain pride! down, thou haughty swelling heart! a wife! a child! a mother, old and blind!—</p>
@@ -1933,7 +1934,7 @@ Unfortunate?—Hear me, Sir! Are you married?</p>
                      </p>
                   </sp>
                   <sp>
-                     <pb n="28" facs="tcp:037759_0028_100F03B6DFFAC098"/>
+                     <pb n="28" facs="unknown:037759_0028_100F03B6DFFAC098"/>
                      <speaker>Har.</speaker>
                      <p>You, sir, can walk about, and make your com<g ref="char:EOLhyphen"/>plaint: and though you should meet with nothing but un<g ref="char:EOLhyphen"/>feeling insolence from ninety-nine out of an hundred of those you apply to; perhaps the hundredth may take you kindly by the hand, and say, "Come, I will assist you." The bank of England is rich; yet cannot pay me for my son!—The king is great, yet cannot restore to me my son!</p>
                   </sp>
@@ -1976,7 +1977,7 @@ Unfortunate?—Hear me, Sir! Are you married?</p>
                   <sp>
                      <speaker>Har.</speaker>
                      <p>No more a father—Yesterday, when the sun rose, my sun lived—To-day, no one bade me—Good-morrow!
-<pb n="29" facs="tcp:037759_0029_100F03B8D356AB18"/>
+<pb n="29" facs="unknown:037759_0029_100F03B8D356AB18"/>
 I stand alone, on the brink of the cold yawning grave— There is none to take me by that hand, and bid me—good<g ref="char:EOLhyphen"/>night, while I descend into the dark and silent abode!—</p>
                   </sp>
                   <sp>
@@ -2011,7 +2012,7 @@ I stand alone, on the brink of the cold yawning grave— There is none to take m
                   </sp>
                </div>
                <div n="5" type="scene">
-                  <pb n="30" facs="tcp:037759_0030_100F03BB34D3AA98"/>
+                  <pb n="30" facs="unknown:037759_0030_100F03BB34D3AA98"/>
                   <head>SCENE V.</head>
                   <stage>MAXWELL <hi>accosts</hi> DUMFRIES.</stage>
                   <sp>
@@ -2097,7 +2098,7 @@ Think over the matter by yourself. You are not the first man that has left a wif
                   <stage>(<hi>The</hi> GAMBLERS <hi>rise from the table in the back ground, and withdraw.</hi>)</stage>
                </div>
                <div n="6" type="scene">
-                  <pb n="31" facs="tcp:037759_0031_100F03BDACA394F0"/>
+                  <pb n="31" facs="unknown:037759_0031_100F03BDACA394F0"/>
                   <head>SCENE VI.</head>
                   <stage>MAXWELL <hi>Alone.</hi>
                   </stage>
@@ -2120,7 +2121,7 @@ Ah! there! Walwyn comes.
 Walwyn!
 <stage>(<hi>Stops as if suddenly rooted to the ground, and pores with downcast eyes</hi>)</stage>
 What was this? What darted through my brain? Oh—h—h! I shudder at the thought! Let me grasp thee, thou terrible stranger!— Thou wearest a hideous mask! Yet art, perhaps, destined
-<pb n="32" facs="tcp:037759_0032_100F03BF9EF91F78"/>
+<pb n="32" facs="unknown:037759_0032_100F03BF9EF91F78"/>
 the saviour of my wife. Stay! Let me accustom myself to thy view!
 <stage>(pauses)</stage>
 Well, and what matters it? Thou goest to India—art dead to Arabella—but, wilt live in her remembrance, while Harry lives—Thy blind and aged mother is provided for—Happy!
@@ -2193,7 +2194,7 @@ are in your own hand-writing.— They have indelibly impressed themselves upon m
                      <p>How could I hate the man who has made Arabel<g ref="char:EOLhyphen"/>la happy?</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:037759_0033_100F03C19C8D1CD0"/>
+                     <pb n="33" facs="unknown:037759_0033_100F03C19C8D1CD0"/>
                      <speaker>Max.</speaker>
                      <p>I am, indeed, deeply affected by the delicacy of your conduct; Your magnanimity overpowers me. I was never accustomed to receive favours. Take back your present.
 <stage>(forces the paper into his hand)</stage>
@@ -2240,7 +2241,7 @@ are in your own hand-writing.— They have indelibly impressed themselves upon m
                      <speaker>Max.</speaker>
                      <p>
                         <stage>(<hi>pausing endeavors to summon up all his firm<g ref="char:EOLhyphen"/>ness</hi>)</stage>
-                        <pb n="34" facs="tcp:037759_0034_100F03C3CCC9BE20"/>
+                        <pb n="34" facs="unknown:037759_0034_100F03C3CCC9BE20"/>
 Walwyn, I have an important question to put to you—a most interesting question!</p>
                   </sp>
                   <sp>
@@ -2296,7 +2297,7 @@ Walwyn<g ref="char:punc">▪</g> will you be a son to my mother—a father to my
                   <sp>
                      <speaker>Max.</speaker>
                      <p>Yes: these are the conditions. Give me, with the faith of a brother, your hand; and promise, that you will support my old blind mother, and will bear with the frailties of her humour; promise that you will form my
-<pb n="35" facs="tcp:037759_0035_100F03C5C090E9A8"/>
+<pb n="35" facs="unknown:037759_0035_100F03C5C090E9A8"/>
 Harry's mind—will bring him up to be an honest man, and will provide for him, if I shall be myself unable to do it!</p>
                   </sp>
                   <sp>
@@ -2334,7 +2335,7 @@ Harry's mind—will bring him up to be an honest man, and will provide for him, 
 A youth spring up<g ref="char:EOLhyphen"/>on the shore—I advance with feeble steps to meet him I behold my Arabella's features.—I sink into his arms— Oh, moments of rapture, sufficient to repair long years of misery!</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:037759_0036_100F03C81D127D58"/>
+                     <pb n="36" facs="unknown:037759_0036_100F03C81D127D58"/>
                      <speaker>Wal.</speaker>
                      <p>Dear Maxwell, your distresses have disor<g ref="char:EOLhyphen"/>dered your mind. A mist swims before your fancy;— and through it, you see none but forms of horror. These are unreal visions. All will yet be cleared up. Confide in me. Call not that a favour, which I feel myself irre<g ref="char:EOLhyphen"/>sistibly urged to give. If you are still obstinate in the re<g ref="char:EOLhyphen"/>fusal of gratuitous assistance; let me call upon my friends; you shall not want for opportunities of earning bread for your family by your own exertion—the harder the exertion the better—if so, you will have it.</p>
                   </sp>
@@ -2413,7 +2414,7 @@ For these two days—
 Victory! my family are saved!</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:037759_0037_100F03C9A35E4688"/>
+                     <pb n="37" facs="unknown:037759_0037_100F03C9A35E4688"/>
                      <speaker>Wal.</speaker>
                      <p>
                         <stage>(snatches from the table a full glass of wine, which Harrington had left upon it)</stage>
@@ -2465,7 +2466,7 @@ Assist me to rise: see! I stand! Nay, legs do not totter!—Think not that the w
                   </sp>
                </div>
                <div n="8" type="scene">
-                  <pb n="38" facs="tcp:037759_0038_100F03CC34FC3D50"/>
+                  <pb n="38" facs="unknown:037759_0038_100F03CC34FC3D50"/>
                   <head>SCENE VIII.</head>
                   <sp>
                      <speaker>WALWYN</speaker>
@@ -2480,7 +2481,7 @@ God forbid, I should: Yes, I will see her once more—but, without making myself
                <trailer>END OF THE SECOND ACT.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="39" facs="tcp:037759_0039_100F03CED1E94420"/>
+               <pb n="39" facs="unknown:037759_0039_100F03CED1E94420"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -2515,7 +2516,7 @@ God forbid, I should: Yes, I will see her once more—but, without making myself
                   <sp>
                      <speaker>Jane.</speaker>
                      <p>I cannot say I do,—but he must needs know you; for he asked me to tell him all about you; and while I spoke, he listened with an air of deep devotion<g ref="char:punc">▪</g>
-                        <pb n="40" facs="tcp:037759_0040_100F03D0549ECB18"/>
+                        <pb n="40" facs="unknown:037759_0040_100F03D0549ECB18"/>
 as one might do at prayers. His face glowed whenever he pronounced your name. Yet he was sad, and his cheeks were wet with tears.</p>
                   </sp>
                   <sp>
@@ -2558,7 +2559,7 @@ Oh, I still love him; he was my first, my only love. Reason, and a daughter's du
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="41" facs="tcp:037759_0041_100F03D248914490"/>
+                  <pb n="41" facs="unknown:037759_0041_100F03D248914490"/>
                   <head>SCENE IV.</head>
                   <stage>
                      <hi>Enter</hi> MAXWELL.</stage>
@@ -2646,7 +2647,7 @@ Well, I go with you.</p>
                   <sp>
                      <speaker>Max.</speaker>
                      <p>Hear me, dearest, best of wives! I have sum<g ref="char:EOLhyphen"/>moned up all my remaining strength of mind. Interrupt
-<pb n="42" facs="tcp:037759_0042_100F03D4958C72F0"/>
+<pb n="42" facs="unknown:037759_0042_100F03D4958C72F0"/>
 me not; for it is extremely difficult for me to pursue any connected chain of ideas. Hear the unalterable resolu<g ref="char:EOLhyphen"/>tion which the iron hand of necessity has compelled me to take—Might I even take you with me: Were I capable of draging you, in return for all that you have sacrificed for me, into a foreign land—Yet, my mother, my poor old mother, must not be left blind, forlorn, and helpless. Can I, at once, deprive her of daughter, son, and grand<g ref="char:EOLhyphen"/>son?—Can I abandon her to public charity? Must her eyes flow with anguish, when they can no longer light her steps? You and her little darling may assist her to endure the loss of me! <hi>You</hi> will not forsake her—no, not even then, when you no longer bear her name!</p>
                   </sp>
                   <sp>
@@ -2674,7 +2675,7 @@ me not; for it is extremely difficult for me to pursue any connected chain of id
                   <sp>
                      <speaker>Max.</speaker>
                      <p>Hear me! Oh, hear me to a close! I release thee from the vows of connubial faith!—erase from thy youth, these last eight years!—Forget what thou wast to me—but, ah! forget not my love!—You are again free: free to dispose of your hand and your heart!—Walwyn
-<pb n="43" facs="tcp:037759_0043_100F03D6F50B6FF0"/>
+<pb n="43" facs="unknown:037759_0043_100F03D6F50B6FF0"/>
 still loves you:—Reward his unshaken constancy.—Be his wife—his happy wife!—But, ah! forget not my love! He will be a father to Harry!—to my mother, a son!— These duties he has sworn to perform!—His tenderness will revive the fading roses on Arabella's cheeks—She shall, yet, remember, with delight, the sweets of her ear<g ref="char:EOLhyphen"/>ly love. And, while hand in hand, you move onward to<g ref="char:EOLhyphen"/>gether, in a path strewed with flowers,—Oh, do not, do not then forget my love!</p>
                   </sp>
                   <sp>
@@ -2700,7 +2701,7 @@ Arabella!</p>
                   <sp>
                      <speaker>Arab.</speaker>
                      <p>You are the father of my child! You have taught me to know the enjoyment of maternal love—the dearest upon earth! Do you fancy that I would purchase wealth at the price of ingratitude? It may be, that the world would not reproach me. To gold, the world will pardon any crime.—A dinner, a ball, will purchase friends, and panegyrists, in any number—But—here—
-<pb n="44" facs="tcp:037759_0044_100F03D8E565F1B0"/>
+<pb n="44" facs="unknown:037759_0044_100F03D8E565F1B0"/>
 here
 <stage>(laying her hand on her breast)</stage>
 —is there a more wretched—a more despicable being, than she who dares not look within—who cannot look upon the horrors of her own heart, without starting back aghast? Want and hunger may unnerve my strength; my conscience defies their power—No!—father of my child, I quit thee not!
@@ -2760,7 +2761,7 @@ Beyond the grave.</p>
                   <sp>
                      <speaker>Arab.</speaker>
                      <p>You are ill, Robert—very ill!—I will go for Harry. He shall effect that which I have attempted in
-<pb n="45" facs="tcp:037759_0045_100F03DADBC085D0"/>
+<pb n="45" facs="unknown:037759_0045_100F03DADBC085D0"/>
 vain, drive away the fiend of melancholy, and smile hope into your heart!
 <stage>Exit hastily.</stage>
                      </p>
@@ -2775,7 +2776,7 @@ vain, drive away the fiend of melancholy, and smile hope into your heart!
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="46" facs="tcp:037759_0046_100F03DCD9E31728"/>
+                  <pb n="46" facs="unknown:037759_0046_100F03DCD9E31728"/>
                   <head>SCENE VI.</head>
                   <stage>
                      <hi>Enter</hi> ARABELLA, <hi>leading</hi> HARRY <hi>by the hand.</hi>
@@ -2860,7 +2861,7 @@ Oh, God! these last tears are yet bitterer than I imagined<g ref="char:punc">▪
                      <p>Robert! what is it you mean to do? Robert, pity my distress!</p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:037759_0047_100F03DF38406400"/>
+                     <pb n="47" facs="unknown:037759_0047_100F03DF38406400"/>
                      <speaker>Max.</speaker>
                      <p>Be comforted, Arabella, I go not to India.</p>
                   </sp>
@@ -2940,7 +2941,7 @@ The hardest task is over!—Now to my mother!
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="48" facs="tcp:037759_0048_100F03E0C014EF60"/>
+                  <pb n="48" facs="unknown:037759_0048_100F03E0C014EF60"/>
                   <head>SCENE VII.</head>
                   <stage>
                      <hi>Enter the</hi> MOTHER <hi>of</hi> MAXWELL, <hi>grouping her way.</hi>
@@ -3009,7 +3010,7 @@ Robert! Robert! thou hast unnerved my last strength; I can work no more; I can o
                   </sp>
                </div>
                <div n="8" type="scene">
-                  <pb n="49" facs="tcp:037759_0049_100F03E2AE71F808"/>
+                  <pb n="49" facs="unknown:037759_0049_100F03E2AE71F808"/>
                   <head>SCENE VIII.</head>
                   <stage>
                      <hi>Enter</hi> WALWYN.</stage>
@@ -3062,7 +3063,7 @@ Pardon, me for having hinted at what is no more to be mentioned. At sight of you
                   <sp>
                      <speaker>Wal.</speaker>
                      <p>For eight long years have I avoided your pre<g ref="char:EOLhyphen"/>sence. The desire of your husband, brings me, this
-<pb n="50" facs="tcp:037759_0050_100F03E4B719AEB0"/>
+<pb n="50" facs="unknown:037759_0050_100F03E4B719AEB0"/>
 day, hither, Arabella! Oh know you but the hopes he would teach me to conceive! No, never did the tempter wear a more seductive guise!—</p>
                   </sp>
                   <sp>
@@ -3112,7 +3113,7 @@ day, hither, Arabella! Oh know you but the hopes he would teach me to conceive! 
                   <sp>
                      <speaker>Wal.</speaker>
                      <p>I have not interrupted you: for, where I love, I delight to admire. The word escaped; but it came from the heart of a man who knows no wish of which
-<pb n="51" facs="tcp:037759_0051_100F03E79E1D51F0"/>
+<pb n="51" facs="unknown:037759_0051_100F03E79E1D51F0"/>
 he can need to be ashamed. Arabella misunderstood me. I listened to your husband, merely to gain time, to sooth the fever of his soul, to save him from the wild phrenzy of despair. His sufferings have awakened within him, powers hitherto unknown to himself, of which the new-born consciousness is pleasing. <hi>To sacrifice himself for his wife</hi>—is the splendid idea, on which he, at present, delights to gaze till his mind's eye becomes blind to every ray of other hope.—It is for this, that his pride devises so many refined pretensions for refusing the assitance of a friend. These would he scarce resign for the sake of the salvation of his family and himself; for resigning these,—he would lose the idol of his fancy, created by love, nutured by want and despair, raised by disordered nerves to be the tyrant of his soul.—He must be gently and softly led back from the precipice to which he is hurried. As to the night-walker,—we must not call him by his name, but, in silence stretch out our arms, that if he fall, he may sink on the bosom of a friend!</p>
                   </sp>
                   <sp>
@@ -3139,7 +3140,7 @@ Excellent Walwyn!—friend in distress!—how could I for a moment, mistake you!
                   </sp>
                </div>
                <div n="9" type="scene">
-                  <pb n="52" facs="tcp:037759_0052_100F03E98EF3F8F0"/>
+                  <pb n="52" facs="unknown:037759_0052_100F03E98EF3F8F0"/>
                   <head>SCENE IX.</head>
                   <stage>
                      <hi>Enter</hi> JANE <hi>hastily.</hi>
@@ -3241,7 +3242,7 @@ Whose corpse?</p>
 Does he live?</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:037759_0053_100F03EB11CC7908"/>
+                     <pb n="53" facs="unknown:037759_0053_100F03EB11CC7908"/>
                      <speaker>Hart.</speaker>
                      <p>As sure as my name is John Hartopp,—he lives—</p>
                   </sp>
@@ -3317,7 +3318,7 @@ An empty hand, and such a look with it, pleases me better than the gentle<g ref=
                      </p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:037759_0054_100F03EE69338410"/>
+                     <pb n="54" facs="unknown:037759_0054_100F03EE69338410"/>
                      <speaker>Arab.</speaker>
                      <p>
                         <stage>(Attempting to rise, is unable, but sinks back, and holds out her arms)</stage>
